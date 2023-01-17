@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@600&display=swap");
+
 * {
   margin: 0;
 }
@@ -70,13 +72,12 @@ button {
   cursor: pointer;
   padding: 20px 65px;
 }
-.context-box{
-display: flex;
-align-items: center;
-margin-bottom: 40;
-border: none;
-box-shadow: rgbs(0,0,0,0.24) 0px 3px 8px;
-border-radius: 10px;
-padding: 30px ;
-
+.context-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40;
+  border: none;
+  box-shadow: rgbs(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  padding: 30px;
 }
